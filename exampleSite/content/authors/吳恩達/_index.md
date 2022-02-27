@@ -1,37 +1,38 @@
----
+
 # Display name
-title: 吳恩達
+title: Bahar Aksu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Linguistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lancaster University
+  url: "www.lancaster.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include L2 speech perception and production, regional dialect variation, and acoustic phonetics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Socio-phonetics
+- Sociolinguistics
+- Second Language Acquistion
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD inLinguistics
+    institution: Lancaster University
+    year: 2022
+  - course: MA in Applied Linguistics and TESOL
+    institution: Lancaster University
+    year: 2017
+  - course: BA in English Language Teaching
+    institution: Marmara University
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,23 +44,24 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/baharaxu
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/baharaksu
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/CV- BaharAKSU.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/CV- BaharAKSU.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "b.aksu@lancaster.ac.uk"
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello-Merhaba! I am Bahar Aksu, and I am a PhD candiate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particulary focusing on Turkish speakers from different regional backgrounds.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis. Lastly, Language Testing and Assessment is my platonic love that I do enjoy learning in my free time.
+
