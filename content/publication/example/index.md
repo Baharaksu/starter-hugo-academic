@@ -1,5 +1,5 @@
 ---
-title: "Regional dialect influence on L2 Speech"
+title: ""
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,13 +26,13 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *New Sounds 2022*
-publication_short: In *ICW*
+publication: In **
+publication_short: In **
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: An experimental study looking at the regional dialect influence on L2 English vowel production among Turkish speakers.
+summary: 
 
 tags: []
 
@@ -60,20 +60,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
