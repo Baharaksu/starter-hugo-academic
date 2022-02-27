@@ -72,4 +72,4 @@ Hello-Merhaba! I am Bahar Aksu, and I am a PhD candiate in Linguistics at Lancas
 
 My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis. Lastly, Language Testing and Assessment is my platonic love that I do enjoy learning in my free time.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Cv- BaharAKSU.pdf" "newtab" >}}resumé{{< /staticref >}}.
