@@ -18,7 +18,7 @@ bio: My research interests include L2 speech production and perception, regional
 
 # Interests to show in About widget
 interests:
-- Socio-phoneticsc
+- Socio-phonetics
 - Sociolinguistics
 - Second Language Acquisition
 
