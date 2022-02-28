@@ -68,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 
-Hello-Merhaba! I am Bahar Aksu, and I am a PhD candiate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds.
+Hello-Merhaba! I am Bahar Aksu, and I am a PhD candidate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds.
 
 My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis. Lastly, Language Testing and Assessment is my platonic love that I do enjoy learning in my free time.
 
