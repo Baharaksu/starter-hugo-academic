@@ -26,13 +26,13 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In **
+publication: In *BAAP 2022 York*
 publication_short: In **
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: 
+Title: Voiced affricate variation in L2 speech production: does native dialect play a role?
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1Css6nSeOUjS1U04XkKiOYLZc32eoOQIL/view'
 url_code: ''
 url_dataset: ''
 url_poster: ''
