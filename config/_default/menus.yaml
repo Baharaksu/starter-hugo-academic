@@ -14,7 +14,7 @@ main:
 
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/CV- BaharAKSU.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/uploads/Bahar Aksu_CV_2022.pdf` and uncomment the lines below.
 #  - name: CV
-#    url: uploads/CV- BaharAKSU.pdf
+#    url: uploads/Bahar Aksu_CV_2022.pdf
 #    weight: 70
