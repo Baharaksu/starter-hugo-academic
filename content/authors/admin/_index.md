@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/CV- BaharAKSU.pdf
+#   link: uploads/Bahar Aksu_CV_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-Hello-Merhaba! I am Bahar Aksu, and I am a PhD candidate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds.
+Hello-Merhaba! I am Bahar Aksu, and I am a PhD candidate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds. More specifically, I focused on the variation of voiced affricate and vowels in L2 Speech in relation to regional dialects. 
 
-My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis. Lastly, Language Testing and Assessment is my platonic love that I do enjoy learning in my free time.
+I am interested in how social and cognitive variables interact and lead to variation in speech production and perception. Currently,I am challenging myself to learn more about the articulatory mechanisms of speech, examining the production of /r/ among Turkish - Minority language bilinguals. 
+
+My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Cv- BaharAKSU.pdf" "newtab" >}}resumé{{< /staticref >}}.
