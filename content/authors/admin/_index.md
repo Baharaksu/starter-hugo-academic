@@ -6,12 +6,12 @@ title: Bahar Aksu
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Linguistics
+role: Lecturer in English Language Teaching 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Lancaster University
-  url: https://www.lancaster.ac.uk
+- name: Erzincan Binali Yıldırım University
+  url: https://www.ebyu.edu.tr
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include L2 speech production and perception, regional dialect variation, and acoustic phonetics.
@@ -68,10 +68,16 @@ email: ""
 highlight_name: true
 ---
 
-Hello-Merhaba! I am Bahar Aksu, and I am a PhD candidate in Linguistics at Lancaster University. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds. More specifically, I focused on the variation of voiced affricate and vowels in L2 Speech in relation to regional dialects. 
+Hello-Merhaba! I am Bahar Aksu, and I am a recent PhD graduate in Linguistics at Lancaster University. I work as lecturere at Erxincan Binali Yıldırım Universit at ELT department since May, 2023. My research interests include second language (L2) speech perception and production, regional dialect variation, and acoustic phonetics. My PhD project examines the role of regional dialect variation in L2 speech production, particularly focusing on Turkish speakers from different regional backgrounds. More specifically, I focused on the variation of voiced affricate and vowels in L2 Speech in relation to regional dialects. 
 
 I am interested in how social and cognitive variables interact and lead to variation in speech production and perception. Currently,I am challenging myself to learn more about the articulatory mechanisms of speech, examining the production of /r/ among Turkish - Minority language bilinguals. 
 
-My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis.
+My MA dissertation was about the role of task types and task planning on L2 spoken language exams in terms of Complexity, Accuracy, and Lexis. 
+
+Here are several courses I will teach next term (Michealelmas/Fall);
+- Listening and Pronunciation
+- Linguistics
+- World Englishes and Cultures
+- Oral Communication Skills.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Cv- BaharAKSU.pdf" "newtab" >}}resumé{{< /staticref >}}.
